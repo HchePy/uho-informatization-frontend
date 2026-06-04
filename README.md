@@ -7,7 +7,6 @@ El desarrollo de este módulo se ha unificado y continuará de forma activa en e
 👉 **[Sistema-Integral-para-la-Gestion-y-Control-de-la-Guardia-Obrera-y-Estudiantil](https://github.com/HchePy/Sistema-Integral-para-la-Gestion-y-Control-de-la-Guardia-Obrera-y-Estudiantil)**
 
 ---
-
 ### ¿Por qué se archivó?
 Para mejorar la organización del proyecto, centralizar la lógica del backend y facilitar el despliegue, decidimos unificar este código dentro del ecosistema del nuevo Sistema Integral. 
 
